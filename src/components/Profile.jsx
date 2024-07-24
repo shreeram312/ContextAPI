@@ -8,7 +8,7 @@ const Profile = () => {
   if (!user) return <div>Please Login</div>;
   return (
     <div>
-      <h1>Welcome {user.username}</h1>
+      <h1>Welcomee {user.username}</h1>
     </div>
   );
 };
